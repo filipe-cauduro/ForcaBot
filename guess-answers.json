@@ -1,0 +1,28 @@
+{
+    "answers": [
+        {
+            "id": 0,
+            "message": "Tentativa inválida, não é permitido repetir letras ou enviar espaços."
+        },
+        {   
+            "id": 1,
+            "message": "Letra correta!"
+        },
+        {
+            "id": 2,
+            "message": "Palavra correta, parabéns, você ganhou!"
+        },
+        {   
+            "id": 3,
+            "message": "Letra incorreta!"
+        },
+        {   
+            "id": 4,
+            "message": "Palavra incorreta, você perdeu!"
+        },
+        {   
+            "id": 5,
+            "message": "Você já sabe a resposta danadinho..."
+        }
+    ]
+}
